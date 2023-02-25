@@ -1,0 +1,5 @@
+    print(1)
+else:
+    scores = list(map(int,input().split())
+    for i in socres:
+        if newscore == scores[i]
